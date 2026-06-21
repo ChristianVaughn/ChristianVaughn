@@ -19,14 +19,6 @@
       </a>
 </p>
 
-<br/><br/>
-
-<img src="assets/tape-findme.png" alt="say hi — find me" width="240" />
-<br/>
-<img src="assets/findme-card.png" alt="Contact info" width="540" />
-
-<br/>
-
 <img src="assets/footer.png" alt="" width="500" />
 
 </div>
