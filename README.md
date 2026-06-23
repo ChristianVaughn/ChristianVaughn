@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="assets/header.png" alt="Hello, I'm Christian Vaughn" width="820" />
-<img src="assets/about-card.png" alt="About blurb" width="640" />
 
 <br/><br/>
 
@@ -18,7 +17,5 @@
         <img src="assets/project-3.png" alt="Unggoy API" width="375" />
       </a>
 </p>
-
-<img src="assets/footer.png" alt="" width="500" />
 
 </div>
